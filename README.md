@@ -8,6 +8,9 @@ We have tried to use Classification Method but during scraping data we found out
 
 # Contributers:
 > Group Representive: Sadil Khan(edwardstephendrood@gmail.com)
+
 > Member 1: Fardeen Khan (kfardeen7890@gmail.com)
+
 > Member 2: Sankert Chordiya(sanketchordiya89@gmail.com)
+
 > Learning Member: Pawandeep Singh (developer.pawandeep@gmail.com)
